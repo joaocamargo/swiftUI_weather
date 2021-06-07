@@ -11,6 +11,7 @@
 		05267242266D2DC300D89CCD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05267241266D2DC300D89CCD /* ContentView.swift */; };
 		05267244266D2DC800D89CCD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05267243266D2DC800D89CCD /* Assets.xcassets */; };
 		05267247266D2DC800D89CCD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05267246266D2DC800D89CCD /* Preview Assets.xcassets */; };
+		0586DB32266D7A0F006E84C8 /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0586DB31266D7A0F006E84C8 /* WeatherButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		05267243266D2DC800D89CCD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		05267246266D2DC800D89CCD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		05267248266D2DC800D89CCD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0586DB31266D7A0F006E84C8 /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				0526723F266D2DC300D89CCD /* WeatherApp.swift */,
 				05267241266D2DC300D89CCD /* ContentView.swift */,
+				0586DB31266D7A0F006E84C8 /* WeatherButton.swift */,
 				05267243266D2DC800D89CCD /* Assets.xcassets */,
 				05267248266D2DC800D89CCD /* Info.plist */,
 				05267245266D2DC800D89CCD /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				05267242266D2DC300D89CCD /* ContentView.swift in Sources */,
 				05267240266D2DC300D89CCD /* WeatherApp.swift in Sources */,
+				0586DB32266D7A0F006E84C8 /* WeatherButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
